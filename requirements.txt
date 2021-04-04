@@ -1,8 +1,7 @@
-google-cloud-bigquery
 requests
 bs4
 fake_useragent
-pip install pandas-profiling[notebook]
+pip install pandas-profiling
 fbprophet
 sklearn
 matplotlib
